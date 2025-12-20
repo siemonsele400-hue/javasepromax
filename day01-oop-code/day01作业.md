@@ -52,7 +52,7 @@
 3.要求:向上抽取一个父类,让这两个类都继承这个父类,共有的属性写在父类中，子类重写父类中的方法
 	编写测试类:完成这两个类的测试
 ```
-效果演示：day01-oop-code/image/1.jpg
+效果演示：[day01-oop-code/image/1.jpg](https://github.com/siemonsele400-hue/javasepromax/blob/master/day01-oop-code/image/1.jpg)
 
 ------
 
