@@ -383,7 +383,7 @@ class Other {
 
 效果展示：
 
- ![1](D:\桌面\java学习v16\02阶段：java基础进阶\day02-面向对象进阶(二)\day02作业\image)	
+| ![image](1.png) |
 
 ------
 
@@ -404,7 +404,7 @@ class Other {
 
 效果演示：
 
-| ![image](image2.png) |
+| ![image](2.png) |
 
 ------
 
