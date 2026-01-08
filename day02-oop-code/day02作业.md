@@ -383,7 +383,7 @@ class Other {
 
 效果展示：
 
- ![1]([day02-oop-code/image/1.jpg](https://github.com/siemonsele400-hue/javasepromax/blob/master/day02-oop-code/image/1.jpg))	
+ ![1](D:\桌面\java学习v16\02阶段：java基础进阶\day02-面向对象进阶(二)\day02作业\image)	
 
 ------
 
