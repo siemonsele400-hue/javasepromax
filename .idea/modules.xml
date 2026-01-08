@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/day01-oop-code/day01-oop-code.iml" filepath="$PROJECT_DIR$/day01-oop-code/day01-oop-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-oop-code/day02-oop-code.iml" filepath="$PROJECT_DIR$/day02-oop-code/day02-oop-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/javasepromax.iml" filepath="$PROJECT_DIR$/javasepromax.iml" />
     </modules>
   </component>
