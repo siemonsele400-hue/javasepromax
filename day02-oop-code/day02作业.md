@@ -404,7 +404,7 @@ class Other {
 
 效果演示：
 
-![](image\2.jpg)
+| ![image](image2.png) |
 
 ------
 
