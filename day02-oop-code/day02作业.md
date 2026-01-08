@@ -383,7 +383,7 @@ class Other {
 
 效果展示：
 
- ![1](image\1.jpg)	
+ ![1](day02-oop-code/image/1.jpg)	
 
 ------
 
