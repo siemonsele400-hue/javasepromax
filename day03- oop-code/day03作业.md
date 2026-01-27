@@ -34,7 +34,8 @@
 
 ##### 4. 关于下面代码，描述正确的是（C）
 
-![1](image\1.jpg)	
+![1](https://github.com/user-attachments/assets/fb0056aa-f6e2-4c55-8076-8699e372aacc)
+
 
    A. 输出2
 
