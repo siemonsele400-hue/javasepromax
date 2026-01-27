@@ -170,7 +170,8 @@ E.
 
 ##### 12. 下面代码运行的正确结果是（D）
 
-![2](image\2.jpg)
+![2](https://github.com/user-attachments/assets/9d19a28a-d3ff-4dfc-ab58-b65148506cff)
+
 
    A. 3
 
@@ -340,7 +341,8 @@ public class OuterDemo {
 ```
 效果展示：
 
- ![](image/3.jpg)
+ ![3](https://github.com/user-attachments/assets/73e8f199-c999-49f1-9497-1ffd6aab68f7)
+
 
 ------
 
@@ -367,7 +369,8 @@ class A {
 
 效果演示：
 
-![](image\4.jpg)
+![4](https://github.com/user-attachments/assets/d51cf7e7-2dab-468e-8faf-5ac4fb4d51ef)
+
 
 ------
 
@@ -379,14 +382,16 @@ class A {
 
 需要展示标号所对应的中文含义。现通过程序模拟上述需求，如下所示：
 
-| ![image](image/image-20220108135342411.png) |
+| <img width="1702" height="316" alt="image-20220108135342411" src="https://github.com/user-attachments/assets/ff6eea6b-c886-4f80-a1c6-1b63a4cf3465" />
+ |
 | ------------------------------------------------------------ |
 
 上述实现方式存在的弊端：代码看起来比较繁琐，可读性较差，并且不利于后期代码的维护。
 
 **需求描述**：现需要使用枚举对上述程序进行优化。程序的执行效果如下所示：
 
-| ![image](image/image-20220108142138437.png) |
+| <img width="1789" height="71" alt="image-20220108142138437" src="https://github.com/user-attachments/assets/fb34d189-315f-4a5c-a872-cff22ef5119b" />
+ |
 | ------------------------------------------------------------ |
 
 **实现提示**：
